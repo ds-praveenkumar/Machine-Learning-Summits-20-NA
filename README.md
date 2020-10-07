@@ -9,6 +9,7 @@ This repo contains resources from the [Google developers ML summit 20](https://e
 * [AI Television Explorer](https://api.gdeltproject.org/api/v2/summary/summary?d=iatvai)
 * [Cloud Video API](https://blog.gdeltproject.org/a-look-at-gdelts-open-ai-datasets-video-imagery-speech-and-natural-language-understanding/)
 * [HL7 Public Server](https://confluence.hl7.org/display/FHIR/Public+Test+Servers)
+* [Intensive Care Unit Admissions Dataset](https://mimic.physionet.org/)
 
 ### 2.Build: focuses on building and training models  
 

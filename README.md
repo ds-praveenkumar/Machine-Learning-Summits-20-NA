@@ -1,4 +1,4 @@
-# Machine-Learning-Summits-20-NA
+# Machine Learning Summits 20 North America
 This repo contains resources from the [Google developers ML summit 20](https://events.withgoogle.com/google-developers-ml-summit/2020-agenda/).
 
 ### 1.Prepare: focuses on analyzing data

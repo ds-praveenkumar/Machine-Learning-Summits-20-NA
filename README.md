@@ -13,7 +13,11 @@ This repo contains resources from the [Google developers ML summit 20](https://e
 
 ### 2.Build: focuses on building and training models  
 * [Federated Learning with TensorFlow Federated](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
-
+* [Federated Learning Github](http://github.com/tensorflow/federated)
+* [buildingmlpipelines.com](https://www.buildingmlpipelines.com/)
+* [Estimating Example Difficulty using Variance of Gradients](https://arxiv.org/abs/2008.11600)
+* [Characterising Bias in Compressed Models](https://arxiv.org/abs/2010.03058)
+* 
 
 ### 3.Predict: focuses on creating predictions
 

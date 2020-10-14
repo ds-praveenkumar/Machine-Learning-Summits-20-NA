@@ -12,6 +12,8 @@ This repo contains resources from the [Google developers ML summit 20](https://e
 * [Intensive Care Unit Admissions Dataset](https://mimic.physionet.org/)
 
 ### 2.Build: focuses on building and training models  
+* [Federated Learning with TensorFlow Federated](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+
 
 ### 3.Predict: focuses on creating predictions
 
